@@ -1,5 +1,3 @@
-# artesanato-cultural
-index.html
 !DOCTYPE htmlhtml lang=pt-br
 head
   meta charset=UTF-8 
